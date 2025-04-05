@@ -1,1 +1,2 @@
 Aprendemos neste vídeo que a função str_contains informa se uma string existe dentro da outra.
+// O STRLEN PEGA O TAMANHO DA STRING EM BYTE
