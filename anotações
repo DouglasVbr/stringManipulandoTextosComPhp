@@ -1,2 +1,8 @@
-Aprendemos neste vídeo que a função str_contains informa se uma string existe dentro da outra.
+Aprendemos neste vídeo que a função str_contains informa se
+ uma string existe dentro da outra.
 // O STRLEN PEGA O TAMANHO DA STRING EM BYTE
+
+A heredoc é equivalente a aspas duplas e a nowdoc é equivalente a aspas simples.
+
+Dessa forma, com o heredoc podemos ter variáveis dentro e
+ com o nowdoc essas variáveis vão ser ignoradas.
