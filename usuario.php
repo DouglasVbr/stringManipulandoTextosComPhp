@@ -25,3 +25,4 @@ $csv = 'Douglas Vieira, 26, douglascanal1998@gmail.com';
 var_dump(explode(',', $csv));
 
 echo trim($email) . PHP_EOL;
+

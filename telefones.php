@@ -8,3 +8,4 @@ $telefones = ['(51) 998509992',
 echo  implode(array: $telefones, separator: ',') . PHP_EOL;
 
 
+

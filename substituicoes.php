@@ -8,5 +8,6 @@ echo str_replace(
     ) . PHP_EOL;
 
 
+
 echo strtr($texto, 'poxa', '****@') . PHP_EOL;
 echo strtr($texto, ['poxa' => 'p', 'caramba' => 'c']) . PHP_EOL;

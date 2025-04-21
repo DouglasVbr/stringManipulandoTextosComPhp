@@ -22,3 +22,4 @@ if(str_ends_with($url, 'br')){ // verifica se a string termina com br se sim é 
 }
 
 echo PHP_EOL;
+

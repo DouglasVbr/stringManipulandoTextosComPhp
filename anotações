@@ -5,4 +5,5 @@ Aprendemos neste vídeo que a função str_contains informa se
 A heredoc é equivalente a aspas duplas e a nowdoc é equivalente a aspas simples.
 
 Dessa forma, com o heredoc podemos ter variáveis dentro e
- com o nowdoc essas variáveis vão ser ignoradas.
+ com o nowdoc essas
+ variáveis vão ser ignoradas.
